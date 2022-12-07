@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "MERCEDES-BENZ A 200",
+    "picture": "images/1.jpg",
+    "age": 3,
+    "breed": "#150",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "MERCEDES-BENZ A 250",
+    "picture": "images/2.jpg",
+    "age": 3,
+    "breed": "#151",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "MERCEDES-BENZ A 35 AMG",
+    "picture": "images/3.jpg",
+    "age": 2,
+    "breed": "#152",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "MERCEDES-BENZ AMG GT 63",
+    "picture": "images/4.jpg",
+    "age": 2,
+    "breed": "#153",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "MERCEDES-BENZ C200",
+    "picture": "images/5.jpg",
+    "age": 2,
+    "breed": "#154",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "MERCEDES-BENZ CLA 45 AMG",
+    "picture": "images/6.jpg",
+    "age": 3,
+    "breed": "#155",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "MERCEDES-BENZ C 300",
+    "picture": "images/7.jpg",
+    "age": 3,
+    "breed": "#156",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "MERCEDES-BENZ EQB 250",
+    "picture": "images/8.jpg",
+    "age": 3,
+    "breed": "#157",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "MERCEDES-BENZ E 63 AMG",
+    "picture": "images/9.jpg",
+    "age": 2,
+    "breed": "#158",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "MERCEDES-BENZ G 63 AMG",
+    "picture": "images/10.jpg",
+    "age": 3,
+    "breed": "#159",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "MERCEDES-BENZ GLC 300",
+    "picture": "images/11.jpg",
+    "age": 2,
+    "breed": "#160",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "MERCEDES-BENZ GLE 53 AMG",
+    "picture": "images/12.jpg",
+    "age": 3,
+    "breed": "#161",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "MERCEDES-BENZ GLE 400D",
+    "picture": "images/13.jpg",
+    "age": 3,
+    "breed": "#162",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "MERCEDES-BENZ GLS 450",
+    "picture": "images/14.jpg",
+    "age": 4,
+    "breed": "#163",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "MERCEDES-BENZ AMG GT",
+    "picture": "images/15.jpg",
+    "age": 2,
+    "breed": "#164",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "MERCEDES-BENZ SPRINTER",
+    "picture": "images/16.png",
+    "age": 2,
+    "breed": "#165",
+    "location": "Dawn, Wisconsin"
+  }
+]
